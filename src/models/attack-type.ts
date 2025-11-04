@@ -1,8 +1,8 @@
 // Define an enum
 export enum AttackType {
-  Light = "Light",
-  Heavy = "Heavy",
-  Special = "Special",
+	Light = 1,
+	Heavy = 3,
+	Special = 5,
 }
 
 // Use it in a function
